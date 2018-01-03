@@ -1,9 +1,9 @@
 [
     { 
-        "ip":"127.0.0.1", 
-        "password":"",
+        "ip":"", 
+        "password":"matrixgaming123",
         "role":"ADMIN",
-        "name":"Local Administrator" 
+        "name":"Matrix Owner" 
     },
     { 
         "ip":"127.0.0.1", 
